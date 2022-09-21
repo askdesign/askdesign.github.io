@@ -1,2 +1,2 @@
 # askdesign.github.io
-my public webpage
+Directory for my public webpages
