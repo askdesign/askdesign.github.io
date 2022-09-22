@@ -3,3 +3,4 @@
 <h3>GDI-classes</h3>
 &nbsp;<br />
 <a href="https://askdesign.github.io/gdi-html-css/web-design-1/">Web Essentials I</a>
+<a href="https://askdesign.github.io/Intro-to-Web-Design/">Intro. to Web Design</a>
