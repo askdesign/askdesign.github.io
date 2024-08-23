@@ -5,4 +5,4 @@
 <a href="https://askdesign.github.io/gdi-html-css/web-design-1/">Web Essentials I</a><br />
 <a href="https://askdesign.github.io/gdi-tech101/intro-git-github-desktop/">Easy Git with Github Desktop</a><br />
 <a href="https://askdesign.github.io/Intro-to-Web-Design/">Intro. to Web Design</a><br />
-<a href="#">Coming Soon: Intro. to WordPress Theme Design & Development</a>
+<a href="https://github.com/askdesign/gdi-wordpress">Coming Soon: Intro. to WordPress Theme Design & Development</a>
